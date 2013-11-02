@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Groessenmesser4500</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="A">A:</string>
+    <string name="B">B:</string>
+    <string name="Alpha">Alpha:</string>
+    <string name="Beta">Beta:</string>
+    <string name="Zero">0</string>
+    <string name="measure">Messen</string>
+    <string name="title_activity_capture">CaptureActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="logtext">Loggen</string>
+    <string name="title_activity_measure">MeasureActivity</string>
+    <string name="Calc">Rechnen</string>
+
+</resources>
